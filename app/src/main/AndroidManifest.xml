@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/icon1"
-        android:label="四阶行列式计算器"
-        android:roundIcon="@mipmap/icon2"
+        android:icon="@mipmap/e"
+        android:label="常用行列式计算器"
+        android:roundIcon="@mipmap/e"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity" android:screenOrientation="portrait">
